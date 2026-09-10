@@ -1,0 +1,470 @@
+
+
+================================================================================
+You are an expert SEO analyst working on a high-scale fintech website.
+
+Analyse the following SEO case.
+
+URL:
+https://www.paytm.com/recharge/mobile
+
+Keyword:
+Mobile Recharge
+
+SEO Issue:
+Low CTR Opportunity
+
+Priority:
+High
+
+Clicks:
+nan
+
+Impressions:
+580000.0
+
+CTR:
+0.0
+
+Current Position:
+4.7
+
+Current Value:
+nan
+
+Provide:
+
+1. SEO Problem
+2. Why this matters
+3. Recommended Action
+4. Suggested SEO improvement
+5. Human Review Required
+6. Risk Level
+
+Important:
+- Do not recommend automatic production changes.
+- A human SEO must approve important changes.
+- Keep the recommendation practical and specific.
+
+
+
+You are an expert SEO analyst working on a high-scale fintech website.
+
+Analyse the following SEO case.
+
+URL:
+https://www.paytm.com/emi-calculator
+
+Keyword:
+EMI Calculator
+
+SEO Issue:
+Low CTR Opportunity
+
+Priority:
+High
+
+Clicks:
+nan
+
+Impressions:
+410000.0
+
+CTR:
+0.0
+
+Current Position:
+6.1
+
+Current Value:
+nan
+
+Provide:
+
+1. SEO Problem
+2. Why this matters
+3. Recommended Action
+4. Suggested SEO improvement
+5. Human Review Required
+6. Risk Level
+
+Important:
+- Do not recommend automatic production changes.
+- A human SEO must approve important changes.
+- Keep the recommendation practical and specific.
+
+
+
+You are an expert SEO analyst working on a high-scale fintech website.
+
+Analyse the following SEO case.
+
+URL:
+https://www.paytm.com/personal-loan
+
+Keyword:
+Personal Loan
+
+SEO Issue:
+Low CTR Opportunity
+
+Priority:
+High
+
+Clicks:
+nan
+
+Impressions:
+325000.0
+
+CTR:
+0.0
+
+Current Position:
+7.2
+
+Current Value:
+nan
+
+Provide:
+
+1. SEO Problem
+2. Why this matters
+3. Recommended Action
+4. Suggested SEO improvement
+5. Human Review Required
+6. Risk Level
+
+Important:
+- Do not recommend automatic production changes.
+- A human SEO must approve important changes.
+- Keep the recommendation practical and specific.
+
+
+
+You are an expert SEO analyst working on a high-scale fintech website.
+
+Analyse the following SEO case.
+
+URL:
+https://www.paytm.com/personal-loan
+
+Keyword:
+Personal Loan
+
+SEO Issue:
+Keyword Cannibalization
+
+Priority:
+High
+
+Clicks:
+nan
+
+Impressions:
+325000.0
+
+CTR:
+0.0
+
+Current Position:
+7.2
+
+Current Value:
+nan
+
+Provide:
+
+1. SEO Problem
+2. Why this matters
+3. Recommended Action
+4. Suggested SEO improvement
+5. Human Review Required
+6. Risk Level
+
+Important:
+- Do not recommend automatic production changes.
+- A human SEO must approve important changes.
+- Keep the recommendation practical and specific.
+
+
+
+You are an expert SEO analyst working on a high-scale fintech website.
+
+Analyse the following SEO case.
+
+URL:
+https://www.paytm.com/credit-score
+
+Keyword:
+CIBIL Score
+
+SEO Issue:
+Low CTR Opportunity
+
+Priority:
+High
+
+Clicks:
+nan
+
+Impressions:
+285000.0
+
+CTR:
+0.0
+
+Current Position:
+8.4
+
+Current Value:
+nan
+
+Provide:
+
+1. SEO Problem
+2. Why this matters
+3. Recommended Action
+4. Suggested SEO improvement
+5. Human Review Required
+6. Risk Level
+
+Important:
+- Do not recommend automatic production changes.
+- A human SEO must approve important changes.
+- Keep the recommendation practical and specific.
+
+
+
+You are an expert SEO analyst working on a high-scale fintech website.
+
+Analyse the following SEO case.
+
+URL:
+https://www.paytm.com/fastag
+
+Keyword:
+FASTag
+
+SEO Issue:
+Low CTR Opportunity
+
+Priority:
+High
+
+Clicks:
+nan
+
+Impressions:
+210000.0
+
+CTR:
+0.0
+
+Current Position:
+5.8
+
+Current Value:
+nan
+
+Provide:
+
+1. SEO Problem
+2. Why this matters
+3. Recommended Action
+4. Suggested SEO improvement
+5. Human Review Required
+6. Risk Level
+
+Important:
+- Do not recommend automatic production changes.
+- A human SEO must approve important changes.
+- Keep the recommendation practical and specific.
+
+
+
+You are an expert SEO analyst working on a high-scale fintech website.
+
+Analyse the following SEO case.
+
+URL:
+https://www.paytm.com/insurance
+
+Keyword:
+Insurance
+
+SEO Issue:
+Low CTR Opportunity
+
+Priority:
+High
+
+Clicks:
+nan
+
+Impressions:
+190000.0
+
+CTR:
+0.0
+
+Current Position:
+10.2
+
+Current Value:
+nan
+
+Provide:
+
+1. SEO Problem
+2. Why this matters
+3. Recommended Action
+4. Suggested SEO improvement
+5. Human Review Required
+6. Risk Level
+
+Important:
+- Do not recommend automatic production changes.
+- A human SEO must approve important changes.
+- Keep the recommendation practical and specific.
+
+
+
+You are an expert SEO analyst working on a high-scale fintech website.
+
+Analyse the following SEO case.
+
+URL:
+https://www.paytm.com/bank-account
+
+Keyword:
+Savings Account
+
+SEO Issue:
+Low CTR Opportunity
+
+Priority:
+High
+
+Clicks:
+nan
+
+Impressions:
+165000.0
+
+CTR:
+0.0
+
+Current Position:
+14.2
+
+Current Value:
+nan
+
+Provide:
+
+1. SEO Problem
+2. Why this matters
+3. Recommended Action
+4. Suggested SEO improvement
+5. Human Review Required
+6. Risk Level
+
+Important:
+- Do not recommend automatic production changes.
+- A human SEO must approve important changes.
+- Keep the recommendation practical and specific.
+
+
+
+You are an expert SEO analyst working on a high-scale fintech website.
+
+Analyse the following SEO case.
+
+URL:
+https://www.paytm.com/bank-account
+
+Keyword:
+Savings Account
+
+SEO Issue:
+Page 2 Ranking Opportunity
+
+Priority:
+High
+
+Clicks:
+nan
+
+Impressions:
+165000.0
+
+CTR:
+0.0
+
+Current Position:
+14.2
+
+Current Value:
+nan
+
+Provide:
+
+1. SEO Problem
+2. Why this matters
+3. Recommended Action
+4. Suggested SEO improvement
+5. Human Review Required
+6. Risk Level
+
+Important:
+- Do not recommend automatic production changes.
+- A human SEO must approve important changes.
+- Keep the recommendation practical and specific.
+
+
+
+You are an expert SEO analyst working on a high-scale fintech website.
+
+Analyse the following SEO case.
+
+URL:
+https://www.paytm.com/credit-card
+
+Keyword:
+Credit Card
+
+SEO Issue:
+Low CTR Opportunity
+
+Priority:
+High
+
+Clicks:
+nan
+
+Impressions:
+158000.0
+
+CTR:
+0.0
+
+Current Position:
+13.9
+
+Current Value:
+nan
+
+Provide:
+
+1. SEO Problem
+2. Why this matters
+3. Recommended Action
+4. Suggested SEO improvement
+5. Human Review Required
+6. Risk Level
+
+Important:
+- Do not recommend automatic production changes.
+- A human SEO must approve important changes.
+- Keep the recommendation practical and specific.

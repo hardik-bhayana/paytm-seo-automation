@@ -1,0 +1,32 @@
+URL,Keyword,Issue,Priority,Current Data,AI Recommendation,Human Review,Status
+https://www.paytm.com/personal-loan,Personal Loan,Low CTR Opportunity,High,Position: 7.2; Impressions: 325000.0; CTR: 0.0,See reports/claude_response.txt; human validation required,Required,AI Reviewed
+https://www.paytm.com/personal-loan,Personal Loan,Top 3 Opportunity,High,Position: 7.2; Impressions: 325000.0; CTR: 0.0,See reports/claude_response.txt; human validation required,Required,AI Reviewed
+https://www.paytm.com/personal-loan/apply,Apply Personal Loan,Low CTR Opportunity,High,Position: 12.8; Impressions: 98000.0; CTR: 0.0,See reports/claude_response.txt; human validation required,Required,AI Reviewed
+https://www.paytm.com/personal-loan/apply,Apply Personal Loan,Page 2 Ranking Opportunity,High,Position: 12.8; Impressions: 98000.0; CTR: 0.0,See reports/claude_response.txt; human validation required,Required,AI Reviewed
+https://www.paytm.com/credit-score,CIBIL Score,Low CTR Opportunity,High,Position: 8.4; Impressions: 285000.0; CTR: 0.0,See reports/claude_response.txt; human validation required,Required,AI Reviewed
+https://www.paytm.com/credit-score,CIBIL Score,Top 3 Opportunity,High,Position: 8.4; Impressions: 285000.0; CTR: 0.0,See reports/claude_response.txt; human validation required,Required,AI Reviewed
+https://www.paytm.com/emi-calculator,EMI Calculator,Low CTR Opportunity,High,Position: 6.1; Impressions: 410000.0; CTR: 0.0,See reports/claude_response.txt; human validation required,Required,AI Reviewed
+https://www.paytm.com/emi-calculator,EMI Calculator,Top 3 Opportunity,High,Position: 6.1; Impressions: 410000.0; CTR: 0.0,See reports/claude_response.txt; human validation required,Required,AI Reviewed
+https://www.paytm.com/loans/personal-loan,Personal Loan,Low CTR Opportunity,High,Position: 18.5; Impressions: 76000.0; CTR: 0.0,See reports/claude_response.txt; human validation required,Required,AI Reviewed
+https://www.paytm.com/loans/personal-loan,Personal Loan,Page 2 Ranking Opportunity,High,Position: 18.5; Impressions: 76000.0; CTR: 0.0,See reports/claude_response.txt; human validation required,Required,AI Reviewed
+https://www.paytm.com/insurance,Insurance,Low CTR Opportunity,High,Position: 10.2; Impressions: 190000.0; CTR: 0.0,See reports/claude_response.txt; human validation required,Required,AI Reviewed
+https://www.paytm.com/fastag,FASTag,Low CTR Opportunity,High,Position: 5.8; Impressions: 210000.0; CTR: 0.0,See reports/claude_response.txt; human validation required,Required,AI Reviewed
+https://www.paytm.com/fastag,FASTag,Top 3 Opportunity,High,Position: 5.8; Impressions: 210000.0; CTR: 0.0,See reports/claude_response.txt; human validation required,Required,AI Reviewed
+https://www.paytm.com/recharge/mobile,Mobile Recharge,Low CTR Opportunity,High,Position: 4.7; Impressions: 580000.0; CTR: 0.0,See reports/claude_response.txt; human validation required,Required,AI Reviewed
+https://www.paytm.com/recharge/mobile,Mobile Recharge,Top 3 Opportunity,High,Position: 4.7; Impressions: 580000.0; CTR: 0.0,See reports/claude_response.txt; human validation required,Required,AI Reviewed
+https://www.paytm.com/recharge/dth,DTH Recharge,Low CTR Opportunity,High,Position: 9.6; Impressions: 145000.0; CTR: 0.0,See reports/claude_response.txt; human validation required,Required,AI Reviewed
+https://www.paytm.com/recharge/dth,DTH Recharge,Top 3 Opportunity,High,Position: 9.6; Impressions: 145000.0; CTR: 0.0,See reports/claude_response.txt; human validation required,Required,AI Reviewed
+https://www.paytm.com/bank-account,Savings Account,Low CTR Opportunity,High,Position: 14.2; Impressions: 165000.0; CTR: 0.0,See reports/claude_response.txt; human validation required,Required,AI Reviewed
+https://www.paytm.com/bank-account,Savings Account,Page 2 Ranking Opportunity,High,Position: 14.2; Impressions: 165000.0; CTR: 0.0,See reports/claude_response.txt; human validation required,Required,AI Reviewed
+https://www.paytm.com/blog/personal-loan-guide,Personal Loan Guide,Low CTR Opportunity,High,Position: 16.7; Impressions: 122000.0; CTR: 0.0,See reports/claude_response.txt; human validation required,Required,AI Reviewed
+https://www.paytm.com/blog/personal-loan-guide,Personal Loan Guide,Page 2 Ranking Opportunity,High,Position: 16.7; Impressions: 122000.0; CTR: 0.0,See reports/claude_response.txt; human validation required,Required,AI Reviewed
+https://www.paytm.com/rewards,Paytm Rewards,Low CTR Opportunity,High,Position: 21.4; Impressions: 62000.0; CTR: 0.0,See reports/claude_response.txt; human validation required,Required,AI Reviewed
+https://www.paytm.com/credit-card,Credit Card,Low CTR Opportunity,High,Position: 13.9; Impressions: 158000.0; CTR: 0.0,See reports/claude_response.txt; human validation required,Required,AI Reviewed
+https://www.paytm.com/credit-card,Credit Card,Page 2 Ranking Opportunity,High,Position: 13.9; Impressions: 158000.0; CTR: 0.0,See reports/claude_response.txt; human validation required,Required,AI Reviewed
+https://www.paytm.com/contact,Paytm Contact,Low CTR Opportunity,High,Position: 9.1; Impressions: 28000.0; CTR: 0.0,See reports/claude_response.txt; human validation required,Required,AI Reviewed
+https://www.paytm.com/contact,Paytm Contact,Top 3 Opportunity,High,Position: 9.1; Impressions: 28000.0; CTR: 0.0,See reports/claude_response.txt; human validation required,Required,AI Reviewed
+https://www.paytm.com/old-loan-page,Personal Loan Online,Low CTR Opportunity,High,Position: 24.6; Impressions: 21000.0; CTR: 0.0,See reports/claude_response.txt; human validation required,Required,AI Reviewed
+https://www.paytm.com/personal-loan,Personal Loan,Keyword Cannibalization,High,Position: 7.2; Impressions: 325000.0; CTR: nan,See reports/claude_response.txt; human validation required,Required,AI Reviewed
+https://www.paytm.com/loans/personal-loan,Personal Loan,Keyword Cannibalization,High,Position: 18.5; Impressions: 76000.0; CTR: nan,See reports/claude_response.txt; human validation required,Required,AI Reviewed
+https://www.paytm.com/old-loan-page,,HTTP Status Issue,Critical,404.0,See reports/claude_response.txt; human validation required,Required,AI Reviewed
+https://www.paytm.com/old-loan-page,,Indexability Issue,Critical,NOT INDEXABLE,See reports/claude_response.txt; human validation required,Required,AI Reviewed
